@@ -1,7 +1,7 @@
 {
   "name": "sshin",
   "version": "0.1.0",
-  "description": "",
+  "description": "Interactive cli-menu for user-specific OpenSSH file client configuration files (~/.ssh/config).",
   "main": "index.js",
   "bin": {
     "sshin": "./index.js"

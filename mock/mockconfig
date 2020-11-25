@@ -1,0 +1,8 @@
+Host somehost
+    HostName 192.168.0.101
+    User megaman
+    Port 24
+Host someotherhost
+    HostName ssh.somehost.com
+    User superman
+    Port 22

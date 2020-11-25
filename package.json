@@ -1,0 +1,23 @@
+{
+  "name": "sshin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "sshin": "./index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Oscar Berg <oscar@oscarberg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "~7.3.3",
+    "ssh-config": "~4.0.4"
+  },
+  "devDependencies": {
+    "jest": "~26.6.3"
+  },
+  "preferGlobal": true
+}

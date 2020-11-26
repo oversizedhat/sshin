@@ -1,0 +1,3 @@
+mock/
+.travis.yml
+*.test.js

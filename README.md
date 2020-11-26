@@ -1,7 +1,7 @@
 # sshin
 [![Build Status](https://travis-ci.org/oversizedhat/sshin.svg?branch=master)](https://travis-ci.org/oversizedhat/sshin)
 
-Interactive cli-menu for user-specific OpenSSH file client configuration files (~/.ssh/config).
+Interactive cli-menu for user-specific OpenSSH client configuration files (~/.ssh/config).
 
 Built using Inquirer.js for interactive cli and ssh-config for config parsing.
 ```sh
